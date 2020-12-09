@@ -1,1 +1,5 @@
-# CSS_Project-4_Team-5_Fall-2020
+# CSS Project 4, Team 5, Fall 2020
+
+## Jose Aveldanes, Lawrence Liu & Alex Ramiller
+
+## Due Dec. 18, 2020
